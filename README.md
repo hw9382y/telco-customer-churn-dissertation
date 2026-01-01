@@ -105,7 +105,7 @@ All data preprocessing, analysis, and modelling procedures are fully documented 
 
 ## Author
 MSc Dissertation Project  
-Business Analytics / Data Analytics  
+Business Analytics  
 
 ---
 
